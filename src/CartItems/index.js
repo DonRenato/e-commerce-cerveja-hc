@@ -6,7 +6,7 @@ export default function CartItems() {
  <div>
   <footer>
        <ul>
-        <BeersCart name="Fuller's London Pride" price="32,00"/>
+        <BeersCart name="Fuller's London Pride" price="32,00" />
         <BeersCart name="Old Speckled Hen" price="37,00" /> 
        </ul>
 

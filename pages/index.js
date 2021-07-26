@@ -6,7 +6,7 @@ import CartItems from '../src/CartItems';
 export default function Cart() {
   return (
    <>
-    <Navbar  />
+    <Navbar />
     <Beers />
     <CartItems />
    </>
